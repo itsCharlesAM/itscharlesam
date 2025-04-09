@@ -49,7 +49,7 @@
 
 - 📫 How to reach me **aliamoori2280@gmail.com**
 
-- 📄 Know about my experiences [https://aliamoori.ir/Files/Ali%20Amoori%20-%20resume.pdf](https://aliamoori.ir/Files/Ali%20Amoori%20-%20resume.pdf)
+- 📄 Know about my experiences — <a href="https://aliamoori.ir/Files/Ali%20Amoori%20-%20resume.pdf" target="_blank" rel="noreferrer">My resume</a>
 
 - ⚡ Fun fact **I talk to databases more than people.**
 
