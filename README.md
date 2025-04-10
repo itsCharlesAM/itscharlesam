@@ -43,7 +43,7 @@
 
 - 🔭 I’m currently working in **Neco industry management**
 
-- 👨‍💻 All of my projects are available at [aliamoori.ir](aliamoori.ir)
+- 👨‍💻 You can check my portfolio <a href="https://aliamoori.ir" target="_blank" rel="noreferrer">here!</a>
 
 - 💬 Ask me about **SQL Server / Database Design & Optimization, .NET / C# backend development, API design & architecture (RESTful services), Business Intelligence (Power BI), Query performance tuning, real-time apps**
 
